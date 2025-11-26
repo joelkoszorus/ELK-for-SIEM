@@ -1,4 +1,4 @@
-# SIEM-System
+# ELK for SIEM
 
 ## Objective
 
